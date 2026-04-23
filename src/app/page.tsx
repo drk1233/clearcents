@@ -1,10 +1,5 @@
-import type { Metadata } from 'next'
+'use client'
 import Link from 'next/link'
-
-export const metadata: Metadata = {
-  title: 'ClearCents — Free Financial Calculators',
-  description: 'Simple, honest financial calculators. Compound interest, debt payoff, savings goals, budgeting and more. No sign-up required.',
-}
 
 const calculators = [
   {
