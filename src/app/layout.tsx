@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   openGraph: {
     siteName: 'AceCents',
     type: 'website',
+  },
+  verification: {
+    google: '5CSJnzdrt71wju8MmgoE1sEareSCGxZ0G5mpBMDLLwM',
   }
 }
 
