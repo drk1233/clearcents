@@ -5,12 +5,12 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: {
-    default: 'ClearCents — Simple Financial Calculators',
-    template: '%s | ClearCents'
+    default: 'AceCents — Simple Financial Calculators',
+    template: '%s | AceCents'
   },
-  description: 'Free, fast financial calculators. No sign-up. No fluff. Just the numbers.',
+  description: 'AceCents provides free, fast financial calculators. No sign-up. No fluff. Just the numbers.',
   openGraph: {
-    siteName: 'ClearCents',
+    siteName: 'AceCents',
     type: 'website',
   }
 }

@@ -1,4 +1,4 @@
-# ClearCents — Personal Finance Calculator Site
+# AceCents — Personal Finance Calculator Site
 
 Simple, honest financial calculators. No sign-up. No fluff. Just the numbers.
 
@@ -17,7 +17,7 @@ Open http://localhost:3000
 2. Go to vercel.com → New Project → Import your repo
 3. Click Deploy — done. Vercel auto-detects Next.js.
 4. Your site is live on a .vercel.app domain
-5. Add your custom domain in Vercel settings (e.g. clearcents.com)
+5. Add your custom domain in Vercel settings (e.g. acecents.com)
 
 ## Project structure
 

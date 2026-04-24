@@ -23,7 +23,7 @@ export default function Nav() {
           textDecoration: 'none',
           letterSpacing: '-0.02em'
         }}>
-          ClearCents
+          AceCents
         </Link>
         <nav style={{ display: 'flex', gap: '1.5rem', alignItems: 'center' }}>
           <Link href="/" style={{

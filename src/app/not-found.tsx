@@ -2,7 +2,7 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Page Not Found | ClearCents',
+  title: 'Page Not Found | AceCents',
 }
 
 export default function NotFound() {
@@ -20,7 +20,7 @@ export default function NotFound() {
         Page not found
       </h1>
       <p style={{ fontSize: 16, color: 'var(--ink-muted)', lineHeight: 1.6, margin: '0 0 2rem' }}>
-        That calculator doesn&apos;t exist yet — or the link is wrong.
+        That calculator doesn't exist yet — or the link is wrong.
       </p>
       <Link href="/" style={{
         display: 'inline-block',
